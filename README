@@ -18,7 +18,7 @@ curl -fsSL https://cdnfly.muhancdn.top/master.sh -o master.sh && chmod +x master
 
 新v5.1.16版本安装脚本:
 
-curl -fsSL -m 5 https://cdnfly.muhancdn.top/agent.sh -o agent.sh || curl -m 5 https://cdnfly.muhancdn.top/agent.sh -o agent.sh  && chmod +x agent.sh && ./agent.sh --master-ver v5.1.11 --master-ip ip --es-ip ip --es-pwd passwd
+curl -fsSL -m 5 https://cdnfly.muhancdn.top/agent.sh -o agent.sh || curl -m 5 https://cdnfly.muhancdn.top/agent.sh -o agent.sh  && chmod +x agent.sh && ./agent.sh --master-ver v5.1.13 --master-ip ip --es-ip ip --es-pwd passwd
 
 4.
 已安装过官方版的开心方法：
